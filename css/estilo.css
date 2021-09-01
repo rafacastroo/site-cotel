@@ -14,7 +14,7 @@
     position: fixed; 
     top: 0; 
     left: 0; 
-    overflow: auto;
+    overflow: hidden;
 }
 
 #templateContainer .navbar.alta-theme {
